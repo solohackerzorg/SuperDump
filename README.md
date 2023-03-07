@@ -12,8 +12,8 @@ pip install rich
 python superdump.py
 ```
 
-* 
-[Run]
+
+* [Run]
 
 ```
 cd ~/SuperDump
