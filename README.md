@@ -1,7 +1,7 @@
 * Developed by
 * SoloHackerzOrganization
 
-[Installation]
+# Installation
 ```
 cd ~/ && rm -rf SuperDump
 git clone --depth=1 https://github.com/solohackerzorganization/SuperDump
@@ -13,7 +13,7 @@ python superdump.py
 ```
 
 
-* [Run]
+# Run
 
 ```
 cd ~/SuperDump
