@@ -4,7 +4,7 @@
 # Installation
 ```
 cd ~/ && rm -rf SuperDump
-git clone --depth=1 https://github.com/solohackerzorganization/SuperDump
+git clone --depth=1 https://github.com/solohackerzorg/SuperDump
 cd ~/SuperDump
 pip install requests
 pip install futures
